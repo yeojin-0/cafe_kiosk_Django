@@ -20,3 +20,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# python manage.py runserver
+
+
+# Question -> 음료 종류(아메리카종류, 라떼, 차, 에이드)
+# Choice -> 세부 음료 종류
+# startproject하고
+# 요구사항 분석하고
+# 테이블 만들기까지
+# 스레드에 깃허브 주소 공유하기

@@ -1,0 +1,8 @@
+<h2>{{ category.name }}</h2>
+<ul>
+{% for choice in choices %}
+    <li>{{ choice.name }} - {{ choice.price }}<br>
+        🎈 {{ choice.description }}</li>
+        <br>
+{% endfor %}
+</ul>
